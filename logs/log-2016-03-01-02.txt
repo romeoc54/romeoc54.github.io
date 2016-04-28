@@ -1,0 +1,32 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-03-01 11:35 PST
+Nmap scan report for 10.183.2.2
+Host is up (0.00047s latency).
+MAC Address: 98:90:96:C3:F2:DD (Unknown)
+Nmap scan report for 10.183.2.7
+Host is up (0.00024s latency).
+MAC Address: 98:90:96:C3:F1:80 (Unknown)
+Nmap scan report for 10.183.2.9
+Host is up (0.00023s latency).
+MAC Address: 98:90:96:C3:EF:EE (Unknown)
+Nmap scan report for 10.183.2.10
+Host is up (0.00023s latency).
+MAC Address: 98:90:96:C2:E8:0A (Unknown)
+Nmap scan report for 10.183.2.11
+Host is up (0.00023s latency).
+MAC Address: 98:90:96:C3:11:D1 (Unknown)
+Nmap scan report for 10.183.2.12
+Host is up (0.00035s latency).
+MAC Address: 98:90:96:C3:10:43 (Unknown)
+Nmap scan report for 10.183.2.17
+Host is up (0.00023s latency).
+MAC Address: 98:90:96:C3:F2:2C (Unknown)
+Nmap scan report for 10.183.2.19
+Host is up (0.00023s latency).
+MAC Address: 98:90:96:C3:F3:2B (Unknown)
+Nmap scan report for 10.183.2.20
+Host is up (0.00022s latency).
+MAC Address: 98:90:96:C3:12:72 (Unknown)
+Nmap scan report for 10.183.2.4
+Host is up.
+Nmap done: 256 IP addresses (10 hosts up) scanned in 1.78 seconds
